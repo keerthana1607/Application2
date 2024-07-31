@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1744a8ae.css",
+    "main.js": "/static/js/main.c89d20a1.js",
+    "static/js/453.df456cef.chunk.js": "/static/js/453.df456cef.chunk.js",
+    "static/media/Shivankk.png": "/static/media/Shivankk.a283af7413a61accafaa.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.1744a8ae.css.map": "/static/css/main.1744a8ae.css.map",
+    "main.c89d20a1.js.map": "/static/js/main.c89d20a1.js.map",
+    "453.df456cef.chunk.js.map": "/static/js/453.df456cef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1744a8ae.css",
+    "static/js/main.c89d20a1.js"
+  ]
+}
